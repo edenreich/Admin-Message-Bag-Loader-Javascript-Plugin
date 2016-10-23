@@ -2,7 +2,7 @@
 For the admin panel, a messagebag, no jQuery needed.
 
 ##How To Use
-just embed this js file in your project, and then just when you want to run it just type:
+just embed this js file in your project, and then when you want to run it type:
 ```javascript
 AdminPanelLoader.start();
 ```
